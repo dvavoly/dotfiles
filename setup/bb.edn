@@ -1,0 +1,2 @@
+{:tasks
+ {setup (println "The fun begins!")}}
